@@ -1,0 +1,8 @@
+Scanning ports on 182.168.1.1 in range 80-85...
+Port 80 is open
+Port 81 is closed
+Port 82 is open
+Port 83 is closed
+Port 84 is closed
+Port 85 is open
+Scan complete.
